@@ -1,0 +1,16 @@
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\model\DAO\ClientesDAO.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\servlets\ClientesServlet.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\ajax\RespuestaJson.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\com\alan\carritoweb\resources\JavaEE8Resource.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\utils\ConnectionManager.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\com\alan\carritoweb\JAXRSConfiguration.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\model\entities\Usuarios.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\servlets\LoginServlet.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\servlets\LogoutServlet.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\model\entities\Cliente.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\model\DAO\UsuarioDAO.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\model\entities\Producto.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\model\DAO\ProductosDAO.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\servlets\ProductosServlet.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\model\DAO\AltaProductoDAO.java
+C:\Users\cami\Desktop\ProyectoFinal\CarritoWeb\src\main\java\ar\com\alan\CarritoWeb\servlets\AltaProductoServlet.java
